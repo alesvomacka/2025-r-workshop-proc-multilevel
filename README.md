@@ -13,3 +13,7 @@ install.packages(c("tidyverse", "rstanarm", "marginaleffects", "datawizard", "pa
 # Modely
 
 Složky `models` obsahuje předpočítané modely pro urychlení práce.
+
+# Prezentace
+
+Prezentace je dostupná [zde](https://github.com/alesvomacka/2025-r-workshop-proc-multilevel/blob/main/proc-heart-multilevel.pdf).
