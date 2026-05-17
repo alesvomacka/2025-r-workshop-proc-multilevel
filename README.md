@@ -7,7 +7,7 @@ Materiály k workshopu Proč <3 víceúrovňové modely z 30. 10. 2025. v rámci
 Potřebné balíčky lze nainstalovat pomocí:
 
 ```r
-install.packages(c("tidyverse", "rstanarm", "marginaleffects", "datawizard", "parameters", "see"))
+install.packages(c("tidyverse", "rstanarm", "marginaleffects", "datawizard", "parameters", "see", "collapse"))
 ```
 
 # Modely
